@@ -1,0 +1,14 @@
+.del{
+    cursor: pointer;
+    background-color: turquoise !important;
+    text-transform: uppercase;
+}
+
+.del:hover{
+    background-color: red !important;
+    color: white;
+}
+h1{
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
